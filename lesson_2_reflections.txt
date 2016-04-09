@@ -8,6 +8,10 @@ How is the staging area different from the working directory and the repository?
 
 The files in the staging ares is the area where the files are placed to become a git repository. You woo not loose the files.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You add the file tot the stagearea and when you commit you commit the logial change for that file.
+
 
 
 
