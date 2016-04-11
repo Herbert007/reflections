@@ -12,6 +12,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You add the file tot the stagearea and when you commit you commit the logial change for that file.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ When you want to try out something and don't want to loose the version that worked.
+
+How do the diagrams help you visualize the branch structure?
+
+It vizualizes the branches wich are reachable and are not .
+
 
 
 
